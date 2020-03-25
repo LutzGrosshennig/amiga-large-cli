@@ -19,5 +19,5 @@ Written back in the days of Kickstart 1.2 around 1987 I guess...
 
 # Kickstart 3.0
 
-Kickstart 3.0 will adjust automatically to the correct resultion so there is no need for the this tool in such enviorments.
+Kickstart 3.0 will adjust automatically to the correct resolution so there is no need for the this tool in such enviorments.
 
