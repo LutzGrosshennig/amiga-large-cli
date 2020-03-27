@@ -1,4 +1,5 @@
 # amiga-large-cli
+
 Do you boot your Amiga to the CLI instead of the Workbench? 
 Are you using an PAL Amiga? 
 Are you using an older Kickstart version prior to version 3?
@@ -19,5 +20,4 @@ Written back in the days of Kickstart 1.2 around 1987 I guess...
 
 # Kickstart 3.0
 
-Kickstart 3.0 will adjust automatically to the correct resolution so there is no need for this tool in such enviorments.
-
+Kickstart 3.0 will adjust automatically to the correct resolution.
