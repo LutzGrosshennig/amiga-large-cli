@@ -20,4 +20,4 @@ Written back in the days of Kickstart 1.2 around 1987 I guess...
 
 # Kickstart 3.0
 
-Kickstart 3.0 will adjust automatically to the correct resolution.
+Kickstart 3.0 will use the correct CLI size by default.
